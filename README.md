@@ -32,7 +32,7 @@ pip install cleverhans
 # Contact
 Yeojun Han - [yeojun.com](https://yeojun.com) - yeojunh [at] student.ubc.ca
 
-Project Link: https://github.com/yeojunh/CPSC440-project
+Project Link: https://github.com/yeojunh/Noise-in-the-Network
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
